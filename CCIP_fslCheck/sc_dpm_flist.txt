@@ -1,0 +1,12 @@
+# Output products list for <sc_dpm>
+sc_dpm.asy
+sc_dpm.ngc
+sc_dpm.sym
+sc_dpm.v
+sc_dpm.veo
+sc_dpm.vhd
+sc_dpm.vho
+sc_dpm.xco
+sc_dpm_blk_mem_gen_v2_8_xst_1.ngc_xst.xrpt
+sc_dpm_flist.txt
+sc_dpm_xmdf.tcl

@@ -1,0 +1,3 @@
+xst -ise "W:/CCIP/CCIP.ise" -intstyle ise -ifn "W:/CCIP/duf_ip_top.xst" -ofn "W:/CCIP/duf_ip_top.syr"
+xst -ise "W:/CCIP/CCIP.ise" -intstyle ise -ifn "W:/CCIP/duf_ip_top.xst" -ofn "W:/CCIP/duf_ip_top.syr"
+xst -ise "W:/CCIP_fslCheck/CCIP.ise" -intstyle ise -ifn "W:/CCIP_fslCheck/duf_ip_top.xst" -ofn "W:/CCIP_fslCheck/duf_ip_top.syr"

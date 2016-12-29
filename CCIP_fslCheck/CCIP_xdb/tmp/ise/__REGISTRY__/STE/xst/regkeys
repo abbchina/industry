@@ -1,0 +1,6 @@
+CommandLine
+C:\Xilinx\Suite101i\ISE\bin\nt\unwrapped\xst.exe -ise W:/CCIP_fslCheck/CCIP.ise -intstyle ise -ifn W:/CCIP_fslCheck/duf_ip_top.xst -ofn W:/CCIP_fslCheck/duf_ip_top.syr -finalclean 1
+s
+FormatString
+xst [-ifn <InputFile>] [-ofn <OutputFile>] [-ise <iseProjectFile>] [--quiet] [-intstyle <Style>] [--deb <DebugLevel>] [--finalclean <Clean>] [--PcubeFlow] [--globOptFlow] [--XstNtrc]
+s
